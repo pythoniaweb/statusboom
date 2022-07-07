@@ -29,6 +29,10 @@ sites: # List of endpoints to  track
     url: https://cpanel.boomhost.ml
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
+  - name: cPanel File Manager
+    url: https://filemanager.ai/new/
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
   - name: Node 1
     url: http://nodea.boomhost.ml/index.html
     maxResponseTime: 50000
