@@ -1,31 +1,54 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
-sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+owner: pythoniaweb # GitHub username
+repo: boomstatus # GitHub repository name
+sites: # List of endpoints to track
+  - name: Main
+    url: http://boomhost.ml/index.php
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: Client Area
+    url: http://area.boomhost.ml/login.php
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: Status Page
+    url: http://status.boomhost.ml/
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: BoomHost FTP
+    url: http://myftp.boomhost.ml/index.php
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: cPanel
+    url: https://cpanel.boomhost.ml
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: MySQL
+    url: http://mysql.boomhost.ml/
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: Node 1
+    url: http://order.boomhost.ml
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
+  - name: Node 2
+    url: http://order.boomhost.ml
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.boomhost.ml # Custom domain CNAME
+  name: BoomHost Status # Status website titlename: upptime.js.org
+  baseUrl: /statusboom
+  logoUrl: https://boomhost.ml/ico.ico
+  favicon: https://boomhost.ml/ico.ico
+  icon: https://boomhost.ml/ico.ico
+  introTitle: "BoomHost Status Page."
+  introMessage: Service Status of Hosting BoomHost.ml
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Main
+      href: https://boomhost.ml
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
