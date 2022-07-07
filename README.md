@@ -1,4 +1,4 @@
-# [📈 Live Status](https://status.boomhost.ml): <!--live status--> **🟩 All systems operational**
+## [📈 Live Status](https://status.boomhost.ml): <!--live status--> **🟩 All systems operational**
 
 [![Uptime CI](https://github.com/pythoniaweb/statusboom/workflows/Uptime%20CI/badge.svg)](https://github.com/pythoniaweb/statusboom/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/pythoniaweb/statusboom/workflows/Response%20Time%20CI/badge.svg)](https://github.com/pythoniaweb/statusboom/actions?query=workflow%3A%22Response+Time+CI%22)
