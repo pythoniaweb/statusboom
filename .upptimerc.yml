@@ -26,7 +26,7 @@ sites: # List of endpoints to  track
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: WHM Api
-    url: http://cpanel.boomhost.ml
+    url: https://cpanel.boomhost.ml
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: Node 1
