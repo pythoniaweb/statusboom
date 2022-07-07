@@ -10,11 +10,11 @@ sites: # List of endpoints to track
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: Status Page
-    url: http://status.boomhost.ml/
+    url: http://status.boomhost.ml/index.html
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: BoomHost FTP
-    url: http://myftp.boomhost.ml/index.php
+    url: http://myftp.boomhost.ml/index.html
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: cPanel
@@ -22,7 +22,7 @@ sites: # List of endpoints to track
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: MySQL
-    url: http://mysql.boomhost.ml/
+    url: http://mysql.boomhost.ml/index.html
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
   - name: Node 1
