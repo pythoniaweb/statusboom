@@ -1,6 +1,6 @@
 owner: pythoniaweb # GitHub username
 repo: statusboom # GitHub repository name
-sites: # List of endpoints to track
+sites: # List of endpoints to  track
   - name: Main
     url: http://boomhost.ml/index.php
     maxResponseTime: 50000
