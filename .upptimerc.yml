@@ -1,5 +1,5 @@
 owner: pythoniaweb # GitHub username
-repo: boomstatus # GitHub repository name
+repo: statusboom # GitHub repository name
 sites: # List of endpoints to track
   - name: Main
     url: http://boomhost.ml/index.php
@@ -38,7 +38,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.boomhost.ml # Custom domain CNAME
   name: BoomHost Status # Status website titlename: upptime.js.org
-  baseUrl: /statusboom
   logoUrl: https://boomhost.ml/ico.ico
   favicon: https://boomhost.ml/ico.ico
   icon: https://boomhost.ml/ico.ico
