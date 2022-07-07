@@ -25,12 +25,16 @@ sites: # List of endpoints to track
     url: http://mysql.boomhost.ml/index.html
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
-  - name: Node 1
+  - name: WHM Api
     url: http://order.boomhost.ml
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
+  - name: Node 1
+    url: http://nodea.boomhost.ml/index.html
+    maxResponseTime: 50000
+    __dangerous__disable_verify_host: true
   - name: Node 2
-    url: http://order.boomhost.ml
+    url: http://nodeb.boomhost.ml/index.html
     maxResponseTime: 50000
     __dangerous__disable_verify_host: true
 status-website:
