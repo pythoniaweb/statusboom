@@ -40,18 +40,20 @@
     "url": "http://status.boomhost.ml/index.html",
     "icon": "https://favicons.githubusercontent.com/status.boomhost.ml",
     "slug": "status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 418,
-    "timeDay": 81,
-    "timeWeek": 390,
-    "timeMonth": 418,
-    "timeYear": 418,
-    "dailyMinutesDown": {}
+    "time": 424,
+    "timeDay": 305,
+    "timeWeek": 408,
+    "timeMonth": 424,
+    "timeYear": 424,
+    "dailyMinutesDown": {
+      "2022-07-16": 0
+    }
   },
   {
     "name": "BoomHost FTP",
