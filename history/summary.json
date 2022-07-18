@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/status.boomhost.ml",
     "slug": "status-page",
     "status": "down",
-    "uptime": "81.61%",
+    "uptime": "77.62%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.79%",
-    "uptimeMonth": "81.61%",
-    "uptimeYear": "81.61%",
+    "uptimeWeek": "65.19%",
+    "uptimeMonth": "77.62%",
+    "uptimeYear": "77.62%",
     "time": 437,
     "timeDay": 612,
     "timeWeek": 464,
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2022-07-18": 47,
+      "2022-07-18": 813,
       "2022-07-17": 1440,
       "2022-07-16": 1256
     }
@@ -134,9 +134,9 @@
     "url": "https://filemanager.ai/new/",
     "icon": "https://favicons.githubusercontent.com/filemanager.ai",
     "slug": "c-panel-file-manager",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,7 +145,9 @@
     "timeWeek": 756,
     "timeMonth": 823,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-18": 0
+    }
   },
   {
     "name": "Node 1",
