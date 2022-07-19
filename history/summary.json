@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/boomhost.ml",
     "slug": "main",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.74%",
+    "uptimeDay": "96.97%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 632,
     "timeDay": 615,
     "timeWeek": 692,
     "timeMonth": 632,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2022-07-19": 4
+      "2022-07-19": 44
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/area.boomhost.ml",
     "slug": "client-area",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.74%",
+    "uptimeDay": "97.00%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
     "time": 592,
     "timeDay": 739,
     "timeWeek": 523,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-07-19": 3
+      "2022-07-19": 43
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/status.boomhost.ml",
     "slug": "status-page",
     "status": "down",
-    "uptime": "72.86%",
+    "uptime": "72.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "55.02%",
-    "uptimeMonth": "72.86%",
-    "uptimeYear": "72.86%",
+    "uptimeWeek": "54.63%",
+    "uptimeMonth": "72.69%",
+    "uptimeYear": "72.69%",
     "time": 419,
     "timeDay": 48,
     "timeWeek": 421,
     "timeMonth": 419,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2022-07-19": 398,
+      "2022-07-19": 438,
       "2022-07-18": 1440,
       "2022-07-17": 1440,
       "2022-07-16": 1256
@@ -68,18 +68,18 @@
     "icon": "https://favicons.githubusercontent.com/myftp.boomhost.ml",
     "slug": "boom-host-ftp",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.75%",
+    "uptimeDay": "97.07%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 485,
     "timeDay": 606,
     "timeWeek": 575,
     "timeMonth": 485,
     "timeYear": 485,
     "dailyMinutesDown": {
-      "2022-07-19": 2
+      "2022-07-19": 42
     }
   },
   {
@@ -88,18 +88,18 @@
     "icon": "https://favicons.githubusercontent.com/cpanel.boomhost.ml",
     "slug": "c-panel",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.75%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 764,
     "timeDay": 817,
     "timeWeek": 760,
     "timeMonth": 764,
     "timeYear": 764,
     "dailyMinutesDown": {
-      "2022-07-19": 2
+      "2022-07-19": 42
     }
   },
   {
@@ -108,18 +108,18 @@
     "icon": "https://favicons.githubusercontent.com/mysql.boomhost.ml",
     "slug": "my-sql",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.75%",
+    "uptimeDay": "97.14%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
     "time": 379,
     "timeDay": 540,
     "timeWeek": 472,
     "timeMonth": 379,
     "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-07-19": 1
+      "2022-07-19": 41
     }
   },
   {
@@ -127,19 +127,19 @@
     "url": "https://cpanel.boomhost.ml",
     "icon": "https://favicons.githubusercontent.com/cpanel.boomhost.ml",
     "slug": "whm-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 415,
-    "timeDay": 94,
-    "timeWeek": 111,
-    "timeMonth": 415,
-    "timeYear": 415,
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.75%",
+    "time": 673,
+    "timeDay": 2579,
+    "timeWeek": 730,
+    "timeMonth": 673,
+    "timeYear": 673,
     "dailyMinutesDown": {
-      "2022-07-19": 1
+      "2022-07-19": 41
     }
   },
   {
@@ -167,19 +167,19 @@
     "url": "http://nodea.boomhost.ml/index.html",
     "icon": "https://favicons.githubusercontent.com/nodea.boomhost.ml",
     "slug": "node-1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 670,
-    "timeDay": 674,
-    "timeWeek": 653,
-    "timeMonth": 670,
-    "timeYear": 670,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "97.19%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 647,
+    "timeDay": 436,
+    "timeWeek": 596,
+    "timeMonth": 647,
+    "timeYear": 647,
     "dailyMinutesDown": {
-      "2022-07-19": 1
+      "2022-07-19": 40
     }
   },
   {
@@ -187,19 +187,19 @@
     "url": "http://nodeb.boomhost.ml/index.html",
     "icon": "https://favicons.githubusercontent.com/nodeb.boomhost.ml",
     "slug": "node-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 201,
-    "timeWeek": 419,
-    "timeMonth": 480,
-    "timeYear": 480,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "97.23%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 466,
+    "timeDay": 197,
+    "timeWeek": 391,
+    "timeMonth": 466,
+    "timeYear": 466,
     "dailyMinutesDown": {
-      "2022-07-19": 0
+      "2022-07-19": 40
     }
   }
 ]
