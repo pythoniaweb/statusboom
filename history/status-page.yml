@@ -1,7 +1,7 @@
 url: http://status.boomhost.ml/index.html
-status: up
-code: 203
-responseTime: 660
-lastUpdated: 2022-09-28T11:30:47.791Z
+status: down
+code: 504
+responseTime: 10994
+lastUpdated: 2022-09-28T20:58:38.329Z
 startTime: Thu Jul 07 2022 16:12:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
