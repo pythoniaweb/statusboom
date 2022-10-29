@@ -1,7 +1,7 @@
 url: http://mysql.boomhost.ml/index.html
-status: up
-code: 203
-responseTime: 8452
-lastUpdated: 2022-10-29T08:33:37.952Z
+status: down
+code: 504
+responseTime: 10794
+lastUpdated: 2022-10-29T09:48:56.354Z
 startTime: Thu Jul 07 2022 16:12:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
