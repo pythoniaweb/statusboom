@@ -32,46 +32,88 @@ sites:
     __dangerous__disable_verify_host: true
   - name: Voice Api
     url: https://voice.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Account Info
     url: https://accountinformation.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Auth Api
     url: https://auth.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Private Message Api
     url: https://privatemessages.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Chat Api
     url: https://chat.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Friends Api
     url: https://friends.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Billing Api
     url: https://billing.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Roblox Docs
     url: https://create.roblox.com/docs/reference/engine
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Games Api
     url: https://games.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: User's Api
     url: https://users.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Inventory Api
     url: https://inventory.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Data Storage Api
     url: https://gamepersistence.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Developer Api
     url: https://develop.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Groups Api
     url: https://groups.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Contact's Api
     url: https://contacts.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Catalog Api
     url: https://catalog.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Dev Forum
     url: https://devforum.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Avatar Api
     url: https://avatar.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Economy Api
     url: https://economy.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Premium Future's Api
     url: https://premiumfeatures.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
   - name: Badge's Api
     url: https://badges.roblox.com/
+    maxResponseTime: 10000
+    __dangerous__disable_verify_host: true
 
 
 
