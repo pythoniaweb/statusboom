@@ -120,18 +120,17 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.boomhost.ml # Custom domain CNAME
+  #cname: status.boomhost.ml # Custom domain CNAME
+  baseUrl: /statusboom
   name: BoomHost Status # Status website titlename: upptime.js.org
   logoUrl: https://boomhost.ml/ico.ico
   favicon: https://boomhost.ml/ico.ico
   icon: https://boomhost.ml/ico.ico
-  introTitle: "BoomHost Status Page."
-  introMessage: Service Status of Hosting BoomHost.ml
+  introTitle: "Roblox Status Page."
+  introMessage: Service Status of Roblox by Anarchy Shutdowns 
   navbar:
     - title: Status
       href: /
-    - title: Main
-      href: https://boomhost.ml
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
