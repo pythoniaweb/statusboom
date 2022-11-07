@@ -41,8 +41,6 @@
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://status.boomhost.ml)
-
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
