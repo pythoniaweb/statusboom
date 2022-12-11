@@ -420,9 +420,9 @@
     "url": "https://devforum.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/devforum.roblox.com.ico",
     "slug": "dev-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -431,7 +431,9 @@
     "timeWeek": 1218,
     "timeMonth": 837,
     "timeYear": 703,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-11": 0
+    }
   },
   {
     "name": "Avatar Api",
