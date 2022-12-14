@@ -278,18 +278,20 @@
     "url": "https://games.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/games.roblox.com.ico",
     "slug": "games-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 93,
     "timeDay": 92,
     "timeWeek": 100,
     "timeMonth": 96,
     "timeYear": 93,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-14": 2
+    }
   },
   {
     "name": "User's Api",
@@ -314,10 +316,10 @@
     "url": "https://inventory.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/inventory.roblox.com.ico",
     "slug": "inventory-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
@@ -325,7 +327,9 @@
     "timeWeek": 96,
     "timeMonth": 93,
     "timeYear": 90,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-14": 2
+    }
   },
   {
     "name": "Data Storage Api",
@@ -350,10 +354,10 @@
     "url": "https://develop.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/develop.roblox.com.ico",
     "slug": "developer-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
@@ -361,7 +365,9 @@
     "timeWeek": 94,
     "timeMonth": 98,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-14": 1
+    }
   },
   {
     "name": "Groups Api",
@@ -386,10 +392,10 @@
     "url": "https://contacts.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/contacts.roblox.com.ico",
     "slug": "contact-s-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 94,
@@ -397,7 +403,9 @@
     "timeWeek": 88,
     "timeMonth": 97,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-14": 1
+    }
   },
   {
     "name": "Catalog Api",
@@ -478,9 +486,9 @@
     "url": "https://premiumfeatures.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/premiumfeatures.roblox.com.ico",
     "slug": "premium-future-s-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -489,7 +497,9 @@
     "timeWeek": 177,
     "timeMonth": 115,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-14": 0
+    }
   },
   {
     "name": "Badge's Api",
