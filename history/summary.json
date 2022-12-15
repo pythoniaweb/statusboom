@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/thumbnails.roblox.com.ico",
     "slug": "thumbnail-s-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 111,
     "timeWeek": 102,
     "timeMonth": 116,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2022-12-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Asset's Delivery",
@@ -353,19 +351,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/develop.roblox.com.ico",
     "slug": "developer-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 99,
     "timeDay": 78,
     "timeWeek": 89,
     "timeMonth": 94,
     "timeYear": 99,
-    "dailyMinutesDown": {
-      "2022-12-14": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Groups Api",
@@ -391,19 +387,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/contacts.roblox.com.ico",
     "slug": "contact-s-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 93,
     "timeDay": 86,
     "timeWeek": 86,
     "timeMonth": 96,
     "timeYear": 93,
-    "dailyMinutesDown": {
-      "2022-12-14": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Catalog Api",
@@ -411,19 +405,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalog.roblox.com.ico",
     "slug": "catalog-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 91,
     "timeDay": 107,
     "timeWeek": 102,
     "timeMonth": 92,
     "timeYear": 91,
-    "dailyMinutesDown": {
-      "2022-12-14": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dev Forum",
