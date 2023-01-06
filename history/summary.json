@@ -290,18 +290,20 @@
     "url": "https://games.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/games.roblox.com.ico",
     "slug": "games-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 96,
-    "timeDay": 176,
-    "timeWeek": 111,
-    "timeMonth": 101,
-    "timeYear": 96,
-    "dailyMinutesDown": {}
+    "time": 97,
+    "timeDay": 174,
+    "timeWeek": 119,
+    "timeMonth": 103,
+    "timeYear": 97,
+    "dailyMinutesDown": {
+      "2023-01-06": 0
+    }
   },
   {
     "name": "User's Api",
