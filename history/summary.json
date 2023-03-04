@@ -473,9 +473,9 @@
     "url": "https://devforum.roblox.com/",
     "icon": "https://icons.duckduckgo.com/ip3/devforum.roblox.com.ico",
     "slug": "dev-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.33%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.93%",
@@ -485,6 +485,7 @@
     "timeMonth": 980,
     "timeYear": 1150,
     "dailyMinutesDown": {
+      "2023-03-04": 0,
       "2023-02-27": 67,
       "2022-12-15": 34,
       "2022-12-11": 17
