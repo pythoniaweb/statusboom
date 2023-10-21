@@ -1,7 +1,7 @@
 url: https://accountsettings.roblox.com/
-status: down
-code: 503
+status: up
+code: 200
 responseTime: 658
-lastUpdated: 2023-10-21T15:46:39.608Z
+lastUpdated: 2023-10-21T16:22:26.203Z
 startTime: 2022-11-06T21:40:57.000Z
 generator: Upptime <https://github.com/upptime/upptime>
