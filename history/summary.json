@@ -77,7 +77,7 @@
     "timeDay": 598,
     "timeWeek": 650,
     "timeMonth": 712,
-    "timeYear": 691,
+    "timeYear": 692,
     "dailyMinutesDown": {
       "2023-10-22": 23,
       "2023-10-21": 95,
@@ -315,7 +315,7 @@
     "timeDay": 333,
     "timeWeek": 160,
     "timeMonth": 143,
-    "timeYear": 176,
+    "timeYear": 175,
     "dailyMinutesDown": {}
   },
   {
@@ -418,7 +418,7 @@
     "timeDay": 495,
     "timeWeek": 643,
     "timeMonth": 678,
-    "timeYear": 643,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2023-10-22": 45,
       "2023-10-21": 59
@@ -495,13 +495,13 @@
     "slug": "dev-forum",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "71.00%",
+    "uptimeDay": "72.73%",
     "uptimeWeek": "86.65%",
     "uptimeMonth": "95.36%",
     "uptimeYear": "99.54%",
     "time": 765,
-    "timeDay": 428,
-    "timeWeek": 403,
+    "timeDay": 420,
+    "timeWeek": 404,
     "timeMonth": 499,
     "timeYear": 683,
     "dailyMinutesDown": {
@@ -549,7 +549,7 @@
     "timeDay": 492,
     "timeWeek": 649,
     "timeMonth": 668,
-    "timeYear": 728,
+    "timeYear": 729,
     "dailyMinutesDown": {
       "2023-10-22": 45,
       "2023-10-21": 59,
